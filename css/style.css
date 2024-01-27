@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(/images/pngtree-neon-tunnel-in-4k-uhd-3d-illustration-picture-image_4236733.jpeg);
+    background-size:cover;
+}
+
+
+
+.upper{
+    display: flex;
+
+
+}
+
+.upper>h1{
+    align-items: center;
+    font-size: 40px;
+    color: white;
+    background-color:transparent;
+    margin: 100px 600px;
+    padding: 7px 7px 7p 7px;
+    
+}
+
+.upper>button{
+    position: absolute;
+    left:10px;
+    height: 3rem;
+    width: 6rem;
+    margin-top: 20px;
+    color: white;
+    background-color: transparent;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 60px;
+    padding: 7px 17px 7px 17px;
+    
+}
+.upper>button:hover{
+    background-color: red;
+    color: white;
+}
+
+.upper>p{
+    position: absolute;
+    right: 10px;
+    margin-top: 50px;
+    margin-right: 60px;
+    color:white;
+    font-size: 30px;
+}
+
+.box{
+    align-items: center;
+    height: 90px;
+    width: 300px;
+    border: 3px solid white;
+    background-color:#956cbb;
+    font-size: 60px;
+    text-align:center ;
+    margin-left:38% ;
+    color: white;
+    padding: 10px;
+}
+
+input{
+    position: absolute;
+    color: black;
+    margin-left: 60px;
+    font-size: 40px;
+    height: 5rem;
+    width: 10rem;
+}
+.check{
+    position: absolute;
+    margin-left:60px ;
+    margin-top: 120px;
+    font-size: 20px;
+    height: 2rem;
+    width: 5rem;
+    background-color: green;
+}
+.check:hover{
+    background-color: yellow;
+
+}
+
+.p1{
+    position: absolute;
+    right:10px;
+    font-size: 40px;
+    color: white;
+    margin-right: 60px;
+}
+.p2{
+    position: absolute;
+    right:10px;
+    font-size: 30px;
+    color: white;
+    margin-right: 140px;
+    margin-top: 90px;
+
+}
+.p3{
+    position: absolute;
+    right:10px;
+    font-size: 30px;
+    color: white;
+    margin-right: 120px;
+    margin-top: 160px;
+
+}
